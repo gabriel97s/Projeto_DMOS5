@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projeto_DMOS5</string>
+    <string name="grant_permission">Conceder permissão</string>
+    <string name="no_grant_permission">Não ceder permissão</string>
+    <string name="msg_info_permission_internet">A aplicação está solicitando o uso de internet</string>
+    <string name="item_elephant_title">Título</string>
+    <string name="item_elephant_picture">Foto</string>
+    <string name="item_elephant_click_info">Clique para mais informações.</string>
+    <string name="find_elephants">Buscar elefantes</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="error_generic">Erro genérico.</string>
+    <string name="error_retrieving_data_from_api">Erro ao tentar recuperar dados da API</string>
+</resources>
